@@ -8,3 +8,4 @@
 - [The little book about OS development](https://littleosbook.github.io/)
 - [JamesM's kernel development tutorials](https://web.archive.org/web/20160412174753/http://www.jamesmolloy.co.uk/tutorial_html/index.html)
 - [操作系统编写教程](https://github.com/ruiers/os-tutorial-cn)
+- [老李手把手之操作系统](https://www.cnblogs.com/oolo/p/13452614.html)
